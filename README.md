@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tormak9970 (Tormak)
 - 👀 I’m interested in Game Dev, Full Stack, and programming in general
 - 🌱 I’m currently learning TS, C#, and UI Design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything from game developement to web dev to backend development. Feel free to reach out, but keep in mind I am pretty short on time :)
 - 📫 How to reach me Tormak9970@gmail.com
 
 <!---
