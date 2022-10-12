@@ -5,7 +5,7 @@
 - You can reach me at Tormak9970@gmail.com
 
 ### Skills
-- Languages: TypeScript, JS, Java, Python, SQL
+- Languages: TypeScript, JS, Java, Python
 - Frameworks/Libraries: Svelte, React, Three.js
 - Tech: Firebase, Google Cloud
 
