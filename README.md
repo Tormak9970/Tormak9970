@@ -1,6 +1,6 @@
 ### About Me
-- Hi, I’m [Travis](https://travislane.dev)
 - I’m a Web Developer and Software Engineer who enjoys bringing creativity into my projects
+- Studying Computational Modeling and Data Analytics alongside Computer Science at Virginia Tech
 - Check out my portfolio! [https://travislane.dev](https://tormak.dev)
 - You can reach me at Tormak9970@gmail.com
 
