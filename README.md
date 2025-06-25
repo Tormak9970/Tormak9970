@@ -1,7 +1,7 @@
 ### About Me
 - Software Engineer who enjoys full stack and UX design
 - Studying Computational Modeling and Data Analytics alongside Computer Science at Virginia Tech
-- Check out my portfolio: [https://travislane.dev](https://tormak.dev)
+- Check out my portfolio: [https://travislane.dev](https://travislane.dev)
 
 ### My Stack
  - Svelte
