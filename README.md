@@ -1,14 +1,11 @@
 ### About Me
 - Software Engineer who enjoys full stack and UX design
-- Studying Computational Modeling and Data Analytics alongside Computer Science at Virginia Tech
+- Studying Computer Science & Data Science at Virginia Tech
 - Check out my portfolio: [https://travislane.dev](https://travislane.dev)
 
 ### My Stack
- - Svelte
- - TypeScript
- - Tauri
- - Rust
- - Vite
+
+[![svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/) [![ts](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![tauri](https://skillicons.dev/icons?i=tauri)](https://tauri.app/) [![rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/) [![vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
 
 ![Tormak's Github Stats](https://github-readme-stats.vercel.app/api?username=tormak9970&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF0900&icon_color=FF0900&text_color=9f9f9f&bg_color=510A32&hide_border=true)
 
