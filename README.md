@@ -1,6 +1,7 @@
 ### About Me
 - Software Engineer who enjoys full stack and UX design
 - Studying Computer Science & Data Science at Virginia Tech
+- Enjoy tennis, hiking, and traveling
 - Check out my portfolio: [https://travislane.dev](https://travislane.dev)
 
 ### My Stack
